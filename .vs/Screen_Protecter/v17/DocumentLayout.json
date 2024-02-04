@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project-table\\c#project\\Screen_Protecter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|e:\\project-table\\c#project\\screen_protecter\\screen_protecter\\mainw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|solutionrelative:screen_protecter\\mainw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|e:\\project-table\\c#project\\screen_protecter\\screen_protecter\\locked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|solutionrelative:screen_protecter\\locked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Screen_Protecter||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|e:\\project-table\\c#project\\screen_protecter\\screen_protecter\\mainw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|solutionrelative:screen_protecter\\mainw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|e:\\project-table\\c#project\\screen_protecter\\screen_protecter\\locked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|solutionrelative:screen_protecter\\locked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A3B1CB-D967-45D3-BE59-32140F7777D7}|Screen_Protecter\\Screen_Protecter.csproj|e:\\project-table\\c#project\\screen_protecter\\screen_protecter\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 900,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{904ea1b4-c6a7-4eca-94a1-76eab06c5187}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Screen_Protecter",
+              "DocumentMoniker": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Screen_Protecter.csproj",
+              "RelativeDocumentMoniker": "Screen_Protecter\\Screen_Protecter.csproj",
+              "ToolTip": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Screen_Protecter.csproj",
+              "RelativeToolTip": "Screen_Protecter\\Screen_Protecter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-04T06:59:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainW.cs",
+              "DocumentMoniker": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\MainW.cs",
+              "RelativeDocumentMoniker": "Screen_Protecter\\MainW.cs",
+              "ToolTip": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\MainW.cs",
+              "RelativeToolTip": "Screen_Protecter\\MainW.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T06:18:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locked.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Locked.cs",
+              "RelativeDocumentMoniker": "Screen_Protecter\\Locked.cs",
+              "ToolTip": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Locked.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Screen_Protecter\\Locked.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T06:15:50.026Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainW.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\MainW.cs",
+              "RelativeDocumentMoniker": "Screen_Protecter\\MainW.cs",
+              "ToolTip": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\MainW.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Screen_Protecter\\MainW.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T06:14:50.01Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Locked.cs",
+              "DocumentMoniker": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Locked.cs",
+              "RelativeDocumentMoniker": "Screen_Protecter\\Locked.cs",
+              "ToolTip": "E:\\Project-table\\c#project\\Screen_Protecter\\Screen_Protecter\\Locked.cs",
+              "RelativeToolTip": "Screen_Protecter\\Locked.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwv0UAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T11:41:39.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

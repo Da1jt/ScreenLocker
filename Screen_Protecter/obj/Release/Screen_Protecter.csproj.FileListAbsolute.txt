@@ -1,0 +1,11 @@
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\bin\Release\Screen_Protecter.exe.config
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\bin\Release\Screen_Protecter.exe
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\bin\Release\Screen_Protecter.pdb
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.csproj.AssemblyReference.cache
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.Locked.resources
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.MainW.resources
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.Properties.Resources.resources
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.csproj.GenerateResource.cache
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.csproj.CoreCompileInputs.cache
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.exe
+E:\Project-table\c#project\Screen_Protecter\Screen_Protecter\obj\Release\Screen_Protecter.pdb
