@@ -22,6 +22,7 @@ namespace Screen_Protecter
         {
             InitializeComponent();
             this.TopMost = true;
+            SHOW_incorrect.Hide();
             Thread thread = new Thread(Loop_thread);
             thread.Start();
         }
@@ -54,14 +55,16 @@ namespace Screen_Protecter
         {
             if (passwd.Equals(Pwd_input.Text))
             {
+                SHOW_incorrect.Hide();
                 unhooker();
                 Environment.Exit(0);
             }
             else
             {
-                MessageBox.Show(Pwd_input.Text, "密码错误");
+                MessageBox.Show(Pwd_input.Text, "密码错误", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                SHOW_incorrect.Show();
                 incorrect_counter++;
-                SHOW_incorrect.Text = SHOW_incorrect.Text.Substring(0,6)+incorrect_counter.ToString();
+                SHOW_incorrect.Text = SHOW_incorrect.Text.Substring(0,6)+incorrect_counter+$" 最后尝试时间：{DateTime.Now}";
             }
         }
 

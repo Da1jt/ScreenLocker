@@ -69,7 +69,7 @@
             this.SHOW_incorrect.AutoSize = true;
             this.SHOW_incorrect.Font = new System.Drawing.Font("黑体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.SHOW_incorrect.ForeColor = System.Drawing.Color.Red;
-            this.SHOW_incorrect.Location = new System.Drawing.Point(724, 361);
+            this.SHOW_incorrect.Location = new System.Drawing.Point(610, 352);
             this.SHOW_incorrect.Name = "SHOW_incorrect";
             this.SHOW_incorrect.Size = new System.Drawing.Size(126, 20);
             this.SHOW_incorrect.TabIndex = 3;
